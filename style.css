@@ -1,7 +1,7 @@
 
 body {
     height: 98vh;
-    background-color: rgb(0, 95, 45)
+    background-color: #354f52;
 }
 
 /*********************************************************************/
@@ -14,8 +14,8 @@ h2 {
     width: 100%;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    color: rgb(46, 45, 45);
-    font-size: 5vw;
+    color: #ee6c4d;
+    font-size: 5vh;
 }
 
 h3 {
@@ -24,8 +24,8 @@ h3 {
     width: 100%;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    color: rgb(0, 95, 45);
-    font-size: 5vw;
+    color: #293241;
+    font-size: 5vh;
 }
 
 /*********************************************************************/
@@ -39,7 +39,7 @@ a {
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
-    color: rgb(46, 45, 45);
+    color: #ee6c4d;
     font-size: 1.5em;
 }
 
@@ -84,7 +84,7 @@ a {
 /* GRID */
 
 .grid-container {
-  background-color: rgb(222, 224, 202);
+  background-color: #e0fbfc;
   height: 100%;
   position:fixed;
   top: 0;
@@ -95,24 +95,22 @@ a {
 }
 
 .grid-item1 {
+  padding-top: 10vh;
   height:33%;
-  border: 1px solid black;
   display: flex;
   align-items: flex-end;
 }
 
 .grid-item2 {
   padding: 1em;
-  height:10%;
-  border: 1px solid black;
+  height:6%;
   display: flex;
   align-items: start;
 }
 
 .grid-item3 {
   padding: 1em;
-  height: 33%;
-  border: 1px solid black;
+  height: 61%;
   text-align: center;
 }
 
