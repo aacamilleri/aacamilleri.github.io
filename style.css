@@ -1,7 +1,7 @@
 
 body {
     height: 98vh;
-    background-color: #ee6c4d;
+    background-color: #98c1d9;
 }
 
 /*********************************************************************/
@@ -11,8 +11,8 @@ body {
 
 h2 {
     margin: 0;
-    width: 100%;
     text-align: center;
+    width: 100%;
     font-family: 'Poppins', sans-serif;
     color: #ee6c4d;
     font-size: 5vh;
@@ -28,6 +28,13 @@ h3 {
     font-size: 5vh;
 }
 
+p {
+  padding: 4vh; 
+  font-size: 3vh;
+  font-family: 'Space Mono', monospace;
+  color: #3d5a80;
+}
+
 /*********************************************************************/
 /*********************************************************************/
 
@@ -38,44 +45,15 @@ a {
     text-align: center;
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Space Mono', monospace;
     color: #ee6c4d;
     font-size: 1.5em;
+    text-decoration: none;
 }
 
-/*********************************************************************/
-/*********************************************************************/
-
-/* HYPERLINKS-HOVER */
-
-#home {
-    text-decoration: none;
-
-}
-
-#home:hover {
-    text-decoration: none;
-    text-transform: uppercase;
-}
-
-#about {
-    text-decoration: none;
-
-}
-
-#about:hover {
-    text-decoration: none;
-    text-transform: uppercase;
-}
-
-#contact {
-    text-decoration: none;
-
-}
-
-#contact:hover {
-    text-decoration: none;
-    text-transform: uppercase;
+a:hover {
+  text-decoration: none;
+  color: #293241;
 }
 
 /*********************************************************************/
@@ -162,7 +140,9 @@ a {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 50vh;
+  margin-bottom: 5vh;
+  border-radius: 5vh;
+  border: 10px solid #293241;
   width:40vh;
   height:40vh;
 }
