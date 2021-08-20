@@ -1,6 +1,6 @@
-<p align="center">
-    <h1> Portfolio Website | acamilleri.me </h1>
-</p>
+<h1 align="center">
+    Portfolio Website | acamilleri.me
+</h1>
 
 Currently serving as a personal portfolio website for Andrew Camilleri.
 
