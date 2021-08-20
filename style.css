@@ -49,6 +49,15 @@ h3 {
   font-size: 6vh;
 }
 
+#watermark {
+  padding-top: 80vh;
+  font-size: 17px;
+  text-align: center;
+  font-family: 'NTR', sans-serif;
+  line-height: 95%;
+  color: #293241;
+}
+
 /*********************************************************************/
 /*********************************************************************/
 
