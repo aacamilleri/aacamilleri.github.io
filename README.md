@@ -1,5 +1,5 @@
 <h1 align="center">
-    Portfolio Website | <a href src="acamilleri.me">acamilleri.me</aa>
+    Portfolio Website | <a href src="acamilleri.me">acamilleri.me</a>
 </h1>
 
 Currently serving as a personal portfolio website for Andrew Camilleri.
