@@ -28,11 +28,25 @@ h3 {
     font-size: 5vh;
 }
 
-p {
-  padding: 4vh; 
+#bio {
+  padding-left: 15vw; 
+  padding-right: 15vw;
+  padding-top: 0vh;
   font-size: 3vh;
-  font-family: 'Space Mono', monospace;
+  font-family: 'NTR', sans-serif;
+  line-height: 95%;
   color: #3d5a80;
+}
+
+#heading {
+  position: static;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  margin-left: 15%;
+  font-family: 'Space Mono', monospace;
+  color:#ee6c4d;
+  font-weight: 700;
+  font-size: 6vh;
 }
 
 /*********************************************************************/
@@ -46,6 +60,7 @@ a {
     margin: 0;
     padding: 0;
     font-family: 'Space Mono', monospace;
+    font-weight: 700;
     color: #ee6c4d;
     font-size: 1.5em;
     text-decoration: none;
@@ -99,7 +114,6 @@ a:hover {
 
 .fade-in-text {
   display: inline-block;
-  font-family: Arial, Helvetica, sans-serif;
   color: black;;
   animation: fadeIn linear 2.5s;
   -webkit-animation: fadeIn linear 2.5s;
@@ -140,10 +154,11 @@ a:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 5vh;
-  border-radius: 5vh;
-  border: 10px solid #293241;
-  width:40vh;
-  height:40vh;
+  margin-top: 0;
+  margin-bottom: 7vh;
+  border-radius: 2vh;
+  border: 8px solid #293241;
+  width:35vh;
+  height:35vh;
 }
 
