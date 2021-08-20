@@ -102,6 +102,7 @@ a:hover {
 }
 
 .grid-item3 {
+  margin-top: 4vh;
   padding: 1em;
   height: 61%;
   text-align: center;
@@ -162,3 +163,8 @@ a:hover {
   height:35vh;
 }
 
+@media (max-width: 629px) {
+  img#optional {
+    display:none;
+  }
+}
