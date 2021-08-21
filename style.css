@@ -15,7 +15,7 @@ h2 {
     width: 100%;
     font-family: 'Poppins', sans-serif;
     color: #ee6c4d;
-    font-size: 5vh;
+    font-size: 4.8vh;
 }
 
 h3 {
@@ -25,7 +25,7 @@ h3 {
     text-align: center;
     font-family: 'Poppins', sans-serif;
     color: #293241;
-    font-size: 5vh;
+    font-size: 4.8vh;
 }
 
 #bio {
@@ -75,9 +75,12 @@ a {
     text-decoration: none;
 }
 
-a:hover {
+a:hover#about,
+a:hover#projects,
+a:hover#experience {
   text-decoration: none;
   color: #293241;
+  margin-left: 7%;
 }
 
 /*********************************************************************/
@@ -138,11 +141,11 @@ a:hover {
 .fade-in-text {
   display: inline-block;
   color: black;;
-  animation: fadeIn linear 2.5s;
-  -webkit-animation: fadeIn linear 2.5s;
-  -moz-animation: fadeIn linear 2.5s;
-  -o-animation: fadeIn linear 2.5s;
-  -ms-animation: fadeIn linear 2.5s;
+  animation: fadeIn linear 2.7s;
+  -webkit-animation: fadeIn linear 2.7s;
+  -moz-animation: fadeIn linear 2.7s;
+  -o-animation: fadeIn linear 2.7s;
+  -ms-animation: fadeIn linear 2.7s;
 }
 
 @keyframes fadeIn {
@@ -177,7 +180,7 @@ a:hover {
 
 .center-image {
   display: block;
-  margin-left: auto;
+  margin-left: 15%;
   margin-right: auto;
   margin-top: 0;
   margin-bottom: 7vh;
@@ -201,6 +204,9 @@ a:hover {
 
 /*********************************************************************/
 /*********************************************************************/
+
+
+
 
 
 
