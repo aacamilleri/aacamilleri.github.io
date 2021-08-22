@@ -196,6 +196,20 @@ a:hover#experience {
   width: 3.5vh;
 }
 
+.socials:hover {
+  padding: 4.5vh;
+  width: 4.5vh;
+}
+
+.p-lang {
+  padding: 1.5vh; 
+  width: 10vh;
+}
+
+.p-langs {
+  padding-left: 14%;
+}
+
 @media (max-width: 629px) {
   img#optional {
     display:none;
