@@ -8,6 +8,8 @@
 
 Currently serving as a personal portfolio website for Andrew Camilleri.
 
+<img src="/pics/website.png" width="100">
+
 Some of the technologies used:
 * Typed.js
 * fullPage.js
