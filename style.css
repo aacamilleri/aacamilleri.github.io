@@ -1,7 +1,7 @@
 
 body {
     height: 98vh;
-    background-color: #98c1d9;
+    background-color: #a3b18a;
 }
 
 /*********************************************************************/
@@ -14,7 +14,7 @@ h2 {
     text-align: center;
     width: 100%;
     font-family: 'Poppins', sans-serif;
-    color: #ee6c4d;
+    color: #344e41;
     font-size: 4.8vh;
 }
 
@@ -24,7 +24,7 @@ h3 {
     width: 100%;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    color: #293241;
+    color: #a3b18a;
     font-size: 4.8vh;
 }
 
@@ -35,7 +35,7 @@ h3 {
   font-size: 3vh;
   font-family: 'NTR', sans-serif;
   line-height: 95%;
-  color: #3d5a80;
+  color: #344e41;
 }
 
 #heading {
@@ -44,7 +44,7 @@ h3 {
   margin-bottom: 2vh;
   margin-left: 15%;
   font-family: 'Space Mono', monospace;
-  color:#ee6c4d;
+  color:#344e41;
   font-weight: 700;
   font-size: 6vh;
 }
@@ -70,7 +70,7 @@ a {
     padding: 0;
     font-family: 'Space Mono', monospace;
     font-weight: 700;
-    color: #ee6c4d;
+    color: #344e41;
     font-size: 1.5em;
     text-decoration: none;
 }
@@ -89,7 +89,7 @@ a:hover#experience {
 /* GRID */
 
 .grid-container {
-  background-color: #e0fbfc;
+  background-color: #dad7cd;
   height: 100%;
   position:fixed;
   top: 0;
