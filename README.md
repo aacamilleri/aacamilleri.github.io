@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-    Portfolio Website | https://acamilleri.me/
+    Portfolio Website | https://aacamilleri.github.io
 </h2>
 
 Currently serving as a personal portfolio website for Andrew Camilleri.
